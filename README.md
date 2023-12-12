@@ -2,7 +2,7 @@
 
 ## 🌀My series Backend Developer Learning🌀
 
-
+### -> Target 5 Month to Basic . [Start ->12/12/2023]
 
 ## Mục lục:
 
@@ -73,3 +73,15 @@
                 ➡ [Bài 13.Lambda](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/13.Lambda.md)
 
                 ➡ [Bài 14.File Handling](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/14.File%20Handling.md)
+### ——✨ Java Spring Boot
+                ➡ [Tutorial](https://www.javatpoint.com/spring-boot-tutorial)
+### ——🦾 Redis
+...
+### ——👾 MYSQL
+...
+### ——🐳 Docker
+...
+### ——😊 AWS
+...
+### ——✅ Design Pattern
+...
