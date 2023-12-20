@@ -1,10 +1,15 @@
-# 💻 Backend Develop 
+# 💻 FullStack Developer 
 
-## 🌀My series Backend Developer Learning🌀
+## 🌀My series FullStack Developer Learning🌀
 
-### -> Target 5 Month to Basic . [Start ->12/12/2023]
+### ->  [Start ->12/12/2023]
                 ➡ [Roadmap](https://roadmap.sh/backend)
 ## Mục lục:
+
+### ⚜️TypeScript
+                ➡ [Tutorial](https://www.w3schools.com/typescript/typescript_intro.php)
+
+
 
 ### ——![Basic Knowledge.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/02/01-13-50-39-Basic%20Knowledge.png) Java Basic
 
@@ -73,6 +78,9 @@
                 ➡ [Bài 13.Lambda](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/13.Lambda.md)
 
                 ➡ [Bài 14.File Handling](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/14.File%20Handling.md)
+
+                ➡ [Khái niệm ThreadPool và Executor trong Java](https://loda.me/articles/khai-niem-threadpool-va-executor-trong-java)
+                
 ### ——✨ Java Spring Boot
                 ➡ [Tutorial](https://www.javatpoint.com/spring-boot-tutorial)
                 
