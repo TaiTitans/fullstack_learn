@@ -79,6 +79,12 @@
                 ➡ [Khái niệm tight-coupling (liên kết ràng buộc) và cách loosely coupled](https://loda.me/articles/core-khai-niem-tight-coupling-lien-ket-rang-buoc-va-cach-loosely-coupled)
                 
                 ➡ [Giải thích Dependency Injection (DI) và IoC bằng Ngọc Trinh](https://loda.me/articles/core-gii-thch-dependency-injection-di-v-ioc-bng-ngc-trinh)
+
+                ➡ [[SB0] Series làm chủ Spring Boot - Zero to Hero](https://loda.me/articles/sb0-series-lam-ch-spring-boot-zero-to-hero)
+
+                ➡ [[SB1] Hướng dẫn @Component và @Autowired](https://loda.me/articles/sb1-huong-dn-component-va-autowired)
+                
+                
                 
                 
 ### ——🦾 Redis
