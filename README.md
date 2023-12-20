@@ -75,6 +75,12 @@
                 ➡ [Bài 14.File Handling](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/14.File%20Handling.md)
 ### ——✨ Java Spring Boot
                 ➡ [Tutorial](https://www.javatpoint.com/spring-boot-tutorial)
+                
+                ➡ [Khái niệm tight-coupling (liên kết ràng buộc) và cách loosely coupled](https://loda.me/articles/core-khai-niem-tight-coupling-lien-ket-rang-buoc-va-cach-loosely-coupled)
+                
+                ➡ [Giải thích Dependency Injection (DI) và IoC bằng Ngọc Trinh](https://loda.me/articles/core-gii-thch-dependency-injection-di-v-ioc-bng-ngc-trinh)
+                
+                
 ### ——🦾 Redis
 ...
 ### ——👾 MYSQL
